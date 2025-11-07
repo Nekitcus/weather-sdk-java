@@ -40,7 +40,7 @@ services with minimal setup.
 ### 1. Clone the project
 
 ``` bash
-git clone https://github.com/neekostar/weather-sdk-java.git
+git clone https://github.com/Nekitcus/weather-sdk-java.git
 cd weather-sdk-java
 ```
 
